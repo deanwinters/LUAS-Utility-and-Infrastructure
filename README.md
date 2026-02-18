@@ -1,5 +1,5 @@
 # LUAS-Utility-and-Infrastructure
-_2025 Dean Winters_
+**2025 Dean Winters**
 
 ## What is this?
 This small project explores the ability of Dublin's two LUAS tram lines to meet passenger demand. Data taken for this investigation is sourced from the CSO (tag: TOA10). 
